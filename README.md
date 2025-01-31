@@ -11,6 +11,7 @@ Objective:To analyze pizza sales revenue, identify trends, and provide insights 
 
 # Tools and Technologies:
 Programming Language: SQL
+
 Libraries: pandas, numpy
 Server: MySQL
 Visualization Tools: Tableau, Jupyter Notebook, Excel
